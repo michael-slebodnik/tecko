@@ -1,1 +1,1 @@
-# tecko
+# Tecko
